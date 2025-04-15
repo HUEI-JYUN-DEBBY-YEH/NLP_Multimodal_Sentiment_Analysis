@@ -1,4 +1,5 @@
-﻿
+This project explores multimodal sentiment analysis by combining textual and visual data. It employs natural language processing techniques alongside image processing to assess sentiment, demonstrating the integration of multiple data modalities for comprehensive sentiment evaluation.​
+
 # 🎭 Multimodal Emotion Analyzer for Mandarin Workplace Videos
 
 本專案建立一套結合語音語意與視覺模態的情緒分析系統，針對台灣職場語境影片進行逐秒級情緒預測與人工對照。專案涵蓋 WhisperX 語音對齊、RoBERTa 語意情緒分析、DeepFace 視覺辨識，以及時間軸融合、人工標註與精華片段整理。
