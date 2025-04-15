@@ -23,6 +23,15 @@ This project explores multimodal sentiment analysis by combining textual and vis
 
 ---
 
+## 📘 Modalities & Tools
+
+- Text: WhisperX for speech-to-text → RoBERTa sentiment classifier (Hugging Face)
+- Visual: DeepFace + YOLO-Face for expression recognition
+- Labeling: Manual 6-class sentiment annotation per video segment
+- Visualization: Matplotlib + Timeline Sync
+  
+---
+
 ## 📊 模型輸出對照分析（Multimodal Emotion Evaluation）
 
 本專案最終階段進行了語音、語意、視覺三模態的機器判讀結果與人工標註的比對分析，涵蓋以下兩個層次：
@@ -104,3 +113,9 @@ This project explores multimodal sentiment analysis by combining textual and vis
 - 本專案資料來源為公開 YouTube 職場演講影片（具教育、分析用途）
 - 模型皆採自 Hugging Face 預訓練模型（MIT / Open License）
 - 適用於教育影片情緒回饋、人機互動情緒辨識、職場演講訓練輔助等應用場景
+
+---
+
+## 🔗 Related Links
+- 📝 [Medium post: A Multimodal Approach to Workplace Emotion](https://medium.com/@debby.yeh1994)
+- 📂 [Project portfolio summary](https://mango-mapusaurus-5df.notion.site/Debby-Yeh-NLP-Application-Engineer-Portfolio-1ca5118474d2801caa58de564fb53e38?pvs=4)
