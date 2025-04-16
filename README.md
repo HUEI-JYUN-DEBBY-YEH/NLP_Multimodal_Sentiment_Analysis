@@ -6,6 +6,13 @@ This project explores multimodal sentiment analysis by combining textual and vis
 
 ---
 
+## 🔖 Why this project matters：
+
+This project integrates speech, text, and facial emotion data to analyze workplace sentiment over time.
+It showcases how multimodal AI can interpret nuanced human expression and support more empathetic, insight-driven environments—especially in organizational settings.
+
+---
+
 ## 🚀 專案亮點
 
 - 🎥 使用 YouTube 職場講座影片作為真實資料來源
