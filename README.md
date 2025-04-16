@@ -28,6 +28,8 @@ It showcases how multimodal AI can interpret nuanced human expression and suppor
 
 ![Multimodal Pipeline](./multimodal_emotion_pipeline_clean.png)
 
+![Architecture Diagram](./multimodal_sentiment_analysis.png)
+
 ---
 
 ## 📘 Modalities & Tools
