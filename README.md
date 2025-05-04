@@ -35,11 +35,14 @@ Clone the Repository:
 
 ``bash
 git clone https://github.com/HUEI-JYUN-DEBBY-YEH/NLP_Multimodal_Sentiment_Analysis.git
+
 cd NLP_Multimodal_Sentiment_Analysis
+
 Install Dependencies:
 
 ``bash
 pip install -r requirements.txt
+
 Run the Pipeline:
 
 ``bash
