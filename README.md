@@ -1,3 +1,5 @@
+This project was part of my journey toward building fair, human-centered AI for workplace transformation.
+
 # Multimodal Emotion Analyzer for Mandarin Workplace Videos
 This project presents a multimodal sentiment analysis pipeline tailored for Mandarin-language workplace videos. By integrating audio, textual, and visual modalities, the system performs per-second emotion predictions and aligns them with human annotations.
 
